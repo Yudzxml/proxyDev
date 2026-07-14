@@ -750,12 +750,12 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github.com/YudzDev.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #F38020;" alt="YudzDev"/>
+<img src="https://github.com/Yudzxml.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #F38020;" alt="Yudzxml"/>
 
 <br/><br/>
 
-<a href="https://github.com/YudzDev">
-  <img src="https://img.shields.io/badge/GitHub-YudzDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/Yudzxml">
+  <img src="https://img.shields.io/badge/GitHub-Yudzxml-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </td>
@@ -775,8 +775,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 <br/>
 
-<a href="https://github.com/YudzDev">
-  <img src="https://img.shields.io/github/followers/YudzDev?style=social" alt="Followers"/>
+<a href="https://github.com/Yudzxml">
+  <img src="https://img.shields.io/github/followers/Yudzxml?style=social" alt="Followers"/>
 </a>
 
 </td>
@@ -792,7 +792,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YudzDev&style=for-the-badge&color=F38020" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Yudzxml&style=for-the-badge&color=F38020" alt="Profile Views"/>
 
 </div>
 
